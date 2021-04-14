@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3-column-preview-card-component/static/css/main.b7469d04.chunk.css",
+    "main.js": "/3-column-preview-card-component/static/js/main.7dc3c6d9.chunk.js",
+    "main.js.map": "/3-column-preview-card-component/static/js/main.7dc3c6d9.chunk.js.map",
+    "runtime-main.js": "/3-column-preview-card-component/static/js/runtime-main.f1338585.js",
+    "runtime-main.js.map": "/3-column-preview-card-component/static/js/runtime-main.f1338585.js.map",
+    "static/js/2.22910a33.chunk.js": "/3-column-preview-card-component/static/js/2.22910a33.chunk.js",
+    "static/js/2.22910a33.chunk.js.map": "/3-column-preview-card-component/static/js/2.22910a33.chunk.js.map",
+    "index.html": "/3-column-preview-card-component/index.html",
+    "static/css/main.b7469d04.chunk.css.map": "/3-column-preview-card-component/static/css/main.b7469d04.chunk.css.map",
+    "static/js/2.22910a33.chunk.js.LICENSE.txt": "/3-column-preview-card-component/static/js/2.22910a33.chunk.js.LICENSE.txt",
+    "static/media/icon-luxury.7d6e1aef.svg": "/3-column-preview-card-component/static/media/icon-luxury.7d6e1aef.svg",
+    "static/media/icon-sedans.e7945028.svg": "/3-column-preview-card-component/static/media/icon-sedans.e7945028.svg",
+    "static/media/icon-suvs.058b664c.svg": "/3-column-preview-card-component/static/media/icon-suvs.058b664c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1338585.js",
+    "static/js/2.22910a33.chunk.js",
+    "static/css/main.b7469d04.chunk.css",
+    "static/js/main.7dc3c6d9.chunk.js"
+  ]
+}
