@@ -9,7 +9,7 @@ const App = () => {
     <>
       <div className="component-wrapper">
         <section className="section first">
-          <img src={SVGS.SedanLogo} alt="icon-sedans" type="image/svg+xml" />
+          <img src={SVGS.SedanLogo} alt="icon-sedans" />
           <h2>Sedans</h2>
           <p>
             Choose a sedan for its affordability and excellent fuel economy.
@@ -18,7 +18,7 @@ const App = () => {
           <button className="first">Learn More</button>
         </section>
         <section className="section secound">
-          <img src={SVGS.SuvLogo} alt="icon-sedans" type="image/svg+xml" />
+          <img src={SVGS.SuvLogo} alt="icon-sedans" />
           <h2>SUVs</h2>
           <p>
             Take an SUV for its spacious interior, power, and versatility.
@@ -27,7 +27,7 @@ const App = () => {
           <button className="secound">Learn More</button>
         </section>
         <section className="section third">
-          <img src={SVGS.LuxuryLogo} alt="icon-sedans" type="image/svg+xml" />
+          <img src={SVGS.LuxuryLogo} alt="icon-sedans" />
           <h2>Luxury</h2>
           <p>
             Cruise in the best car brands without the bloated prices. Enjoy the
