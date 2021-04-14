@@ -2,7 +2,7 @@
 /* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import SVGS from "../images/PackSvgs";
-import "../css/App.css";
+import "../scss/App.scss";
 
 const App = () => {
   return (
